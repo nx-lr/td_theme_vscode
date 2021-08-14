@@ -10,13 +10,13 @@ Will be maintaining this as I have time, thanks for your understanding! 🙏🏽
 
 ### HTML
 
-![HTML screenshot](../screenshots/html.png)
+![HTML screenshot](https://github.com/TasnimulHasan007/valorant-theme/blob/main/screenshots/html.png)
 
 ### CSS
 
-![CSS screenshot](../screenshots/css.png)
+![CSS screenshot](https://github.com/TasnimulHasan007/valorant-theme/blob/main/screenshots/css.png)
 
 ### JavaScript
 
-![JavaScript screenshot](../screenshots/js.png)
+![JavaScript screenshot](https://github.com/TasnimulHasan007/valorant-theme/blob/main/screenshots/js.png)
 

@@ -29,7 +29,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tasnimul Hasan",
+                "label": "Valorant Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Tasnimul Hasan-color-theme.json"
             }

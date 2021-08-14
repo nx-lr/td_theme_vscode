@@ -67,7 +67,7 @@
       "name": "support.function.std.rust",
       "scope": "support.function.std.rust",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -137,7 +137,7 @@
       "name": "diff",
       "scope": "meta.diff.header.from-file,meta.diff.header.to-file,punctuation.definition.from-file.diff,punctuation.definition.to-file.diff",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -179,7 +179,7 @@
       "name": "js/ts import keyword",
       "scope": "keyword.operator.expression.import",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -231,7 +231,7 @@
       "name": "java modifier.import",
       "scope": "meta.method.java",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -377,7 +377,7 @@
       "name": "js console function",
       "scope": "entity.name.function,support.function.console",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -496,7 +496,7 @@
       "name": "python function-call.generic",
       "scope": "meta.function-call.generic.python",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -599,7 +599,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -666,7 +666,7 @@
       "name": "Methods",
       "scope": "keyword.other.special-method",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -792,15 +792,15 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
-        "foreground": "#486feb"
+        "fontStyle": "italic",
+        "foreground": "#7193ff"
       }
     },
     {
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "foreground": "#e7a627"
       }
     },
@@ -822,7 +822,7 @@
       "name": "Headings",
       "scope": "markup.heading punctuation.definition.heading, entity.name.section",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -954,7 +954,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
       "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -1129,7 +1129,7 @@
       "name": "php call-function",
       "scope": "meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -1157,7 +1157,7 @@
       "name": "php goto",
       "scope": "entity.name.goto-label.php,support.other.php",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -1192,7 +1192,7 @@
       "name": "python function decorator @",
       "scope": "meta.function.decorator.python",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -1289,7 +1289,7 @@
     {
       "scope": "token.info-token",
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -1345,7 +1345,7 @@
         "support.type.type.flowtype"
       ],
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -1573,7 +1573,7 @@
         "meta.method.groovy"
       ],
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -1715,7 +1715,7 @@
         "constant.character.xi"
       ],
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -1724,7 +1724,7 @@
         "accent.xi"
       ],
       "settings": {
-        "foreground": "#486feb"
+        "foreground": "#7193ff"
       }
     },
     {
@@ -1864,7 +1864,7 @@
     "list.inactiveSelectionForeground": "#cccccc",
     "list.hoverBackground": "#2a2d2e",
     "list.hoverForeground": "#cccccc",
-    "list.activeSelectionBackground": "#ff4655",
+    "list.activeSelectionBackground": "#ff465566",
     "list.activeSelectionForeground": "#ece8e1",
     "tree.indentGuidesStroke": "#585858",
     "list.dropBackground": "#383b3d",
@@ -1883,19 +1883,19 @@
     "statusBar.noFolderForeground": "#ece8e1",
     "statusBarItem.remoteBackground": "#59ea5d",
     "statusBarItem.remoteForeground": "#ece8e1",
-    "titleBar.activeBackground": "#212121",
+    "titleBar.activeBackground": "#0f1923",
     "titleBar.activeForeground": "#ece8e1",
-    "titleBar.inactiveBackground": "#3c3c3c99",
+    "titleBar.inactiveBackground": "#212121",
     "titleBar.inactiveForeground": "#cccccc99",
     "titleBar.border": "#00000000",
-    "menubar.selectionForeground": "#cccccc",
-    "menubar.selectionBackground": "#ffffff1a",
+    "menubar.selectionForeground": "#ece8e1",
+    "menubar.selectionBackground": "#212121",
     "menu.foreground": "#cccccc",
     "menu.background": "#111111",
     "menu.selectionForeground": "#ece8e1",
-    "menu.selectionBackground": "#ff4655",
+    "menu.selectionBackground": "#212121",
     "menu.selectionBorder": "#00000000",
-    "menu.separatorBackground": "#bbbbbb",
+    "menu.separatorBackground": "#ff4655",
     "menu.border": "#00000085",
     "button.background": "#ff4655",
     "button.foreground": "#ece8e1",
@@ -2002,9 +2002,9 @@
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#212121",
     "tab.inactiveForeground": "#ffffff80",
-    "scrollbarSlider.background": "#ece8e166",
-    "scrollbarSlider.hoverBackground": "#646464b3",
-    "scrollbarSlider.activeBackground": "#bfbfbf66",
+    "scrollbarSlider.background": "#111111a1",
+    "scrollbarSlider.hoverBackground": "#111111",
+    "scrollbarSlider.activeBackground": "#111111",
     "progressBar.background": "#ff4655",
     "widget.shadow": "#0000005c",
     "editorWidget.foreground": "#cccccc",

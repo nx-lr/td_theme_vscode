@@ -1,9 +1,1 @@
-# Change Log
-
-All notable changes to the "valorant-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+0.2.4 - Syntax Colors Enhaced

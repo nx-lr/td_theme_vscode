@@ -1,1 +1,2 @@
-0.2.6 - Syntax Colors Enhaced
+# 0.3.0
+- Syntax Colors Enhanced

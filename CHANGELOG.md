@@ -1,1 +1,1 @@
-0.2.4 - Syntax Colors Enhaced
+0.2.5 - Syntax Colors Enhaced

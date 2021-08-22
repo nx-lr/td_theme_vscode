@@ -29,9 +29,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Valorant Theme",
+                "label": "Valorant Theme - High Contrast",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Tasnimul Hasan-color-theme.json"
+            },
+            {
+                "label": "Valorant Theme - Low Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/valorant-mid-contrast.json"
             }
         ]
     }

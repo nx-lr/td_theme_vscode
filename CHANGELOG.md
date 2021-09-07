@@ -7,4 +7,7 @@
 -   Just Added a low contrast version. It's on test so the screenshots aren't available yet, but you'll see them in the next patch
 
 # 0.4.1
--   Enhanced Low Contrast mode
+-   Low Contrast mode syntax colors enhanced
+
+# 0.4.1
+-   Low Contrast mode background colors enhanced

@@ -14,3 +14,6 @@
 
 # 0.4.3
 -   Low Contrast mode remade
+
+# 0.4.4
+-   Minor bug fixes

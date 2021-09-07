@@ -31,7 +31,7 @@
             {
                 "label": "Valorant Theme - High Contrast",
                 "uiTheme": "vs-dark",
-                "path": "./themes/valorant-high-constrast.json"
+                "path": "./themes/valorant-high-contrast.json"
             },
             {
                 "label": "Valorant Theme - Low Contrast",

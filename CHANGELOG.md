@@ -9,5 +9,8 @@
 # 0.4.1
 -   Low Contrast mode syntax colors enhanced
 
-# 0.4.1
+# 0.4.2
 -   Low Contrast mode background colors enhanced
+
+# 0.4.3
+-   Low Contrast mode remade

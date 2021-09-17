@@ -23,6 +23,8 @@ If you want to switch themes:
 - Navigate to Code > Preferences > Color Theme, then type `true colors`. You should see five themes.
 - Then select `True Colors: ${True Damage member}` from the dropdown
 
+### Recommended Settings 
+
 If you want to steal this look, [Cascadia Code](https://github.com/microsoft/cascadia-code) at **500 weight**, then paste this code snippet in your `settings.json` file:
 
 ```json

@@ -27,7 +27,7 @@
       {
         "label": "INIZIO: Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/inizio.json"
+        "path": "./themes/inizio-dark.json"
       }
     ]
   }

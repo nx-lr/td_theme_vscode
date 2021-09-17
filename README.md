@@ -1,6 +1,4 @@
-# [INIZIO]
-
-<span style=font-size:10px>means "beginning" in Italian</span>
+# [TRU:DMG]
 
 ```js
 nxltm.inizio()

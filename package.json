@@ -1,20 +1,38 @@
 {
-  "name": "inizio-theme",
-  "displayName": "Inizio Theme",
-  "description": "INIZIO: A theme based on TasnimulHasan007's VALORANT theme but withi ",
+  "name": "true-colors-theme",
+  "displayName": "True Colors Theme",
+  "description": "TRUE COLORS: A theme based on TasnimulHasan007's VALORANT theme but withi ",
   "version": "0.4.3",
   "publisher": "TasnimulHasan",
   "icon": "icon.jpg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nxltm/inizio-theme/"
+    "url": "https://github.com/nxltm/true-colors/"
   },
   "keywords": [
     "theme",
     "dark theme",
-    "inizio-theme",
-    "inizio theme",
-    "inizio"
+    "true colors",
+    "true colors theme",
+    "true-colors-theme",
+    "true colors theme",
+    "true-damage",
+    "true damage",
+    "true-damage-theme",
+    "true damage theme",
+    "league of legends",
+    "league-of-legends",
+    "lol",
+    "riot-games",
+    "riot-games-music",
+    "riot games",
+    "riot games music",
+    "giants",
+    "akali",
+    "ekko",
+    "qiyana",
+    "senna",
+    "yasuo"
   ],
   "engines": {
     "vscode": "^1.59.0"
@@ -25,9 +43,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "INIZIO: Dark",
+        "label": "True Colors | Ekko",
         "uiTheme": "vs-dark",
-        "path": "./themes/inizio-dark.json"
+        "path": "./themes/ekko.json"
       }
     ]
   }

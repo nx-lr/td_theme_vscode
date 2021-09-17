@@ -1,20 +1,14 @@
 # [TRU:DMG]
 
 ```js
-nxltm.inizio()
+const damage: boolean = true;
 ```
 
-A vibrant code editor skin based on Riot Games' **Valorant**. Should support most programming languages: Markdown, HTML, CSS, JS, TS, PHP, Ruby, YAML and Python. 
+A colorful skin line for Visual Studio Code, based on the True Damage skin line from League of Legends! Supports most languages, including, but not limited to: CSS, JS, TypeScript, HTML, PHP, Ruby, YAML, Markdown, Python, Ruby, Java, C#, Scala and more. 
 
-The UI colors are taken from TasnimulHasan007's [Valorant](https://github.com/TasnimulHasan007/valorant-theme) theme, however with some customiz
+The colors are mostly based on the Electron/One Dark Pro/Material Themes, plus more colors sourced from [Coolors](coolors.co) and [Color Hunt](colorhunt.com). This was once my personal theme so there're a lot of colors in there.
 
-The colors are mostly based on the [Electron](https://github.com/kcmr/electron-theme-vscode) VSCode theme by Kus C&aacute;mara, and more from other popular themes such as Noctis, One Dark Pro, Monokai, Dracula and more. Most of the extra colors are sourced from [Coolors](coolors.co) and [Color Hunt](colorhunt.com). 
-
-These are my first themes, so please let me know if you see anything out of place or don't work well! 
-
-I'll be working on a light theme, 
-
-This theme is best used with .
+These are my first themes, so please let me know if you see anything out of place or don't work well!
 
 ### Installation :arrowdown:
 
@@ -26,8 +20,8 @@ This theme is best used with .
 
 If you want to switch themes:
 
-- Navigate to Code > Preferences > Color Theme, then type `tru`.
-- Then select `INIZIO: Dark`
+- Navigate to Code > Preferences > Color Theme, then type `true colors`. You should see five themes.
+- Then select `True Colors: ${True Damage member}` from the dropdown
 
 If you want to steal this look, [Cascadia Code](https://github.com/microsoft/cascadia-code) at **500 weight**, then paste this code snippet in your `settings.json` file:
 
@@ -40,7 +34,7 @@ If you want to steal this look, [Cascadia Code](https://github.com/microsoft/cas
 }
 ```
 
-## Palette :soon:
+## Palette 🎨
 
 ## Extension Pack 📦
 

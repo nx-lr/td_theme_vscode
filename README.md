@@ -4,7 +4,7 @@
 
 ![true damage](./icon.jpg)
 
-<small>`image above by me`</small>
+<small>`image above by me / done using Figma and Canva`</small>
 
 [I'm working on it here!](https://themes.vscode.one/)
 

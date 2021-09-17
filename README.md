@@ -14,7 +14,7 @@ These are my first themes, so please let me know if you see anything out of plac
 
 - Install and launch Visual Studio Code
 - Click on the Extensions Icon
-- Search for `tru dmg`
+- Search for `true colors`
 - Click `Install`, then `Set Color Theme`
 - Select what theme you want to use from the dropdown
 

@@ -1,6 +1,8 @@
-# Valorant Theme by Tasnimul Hasan
+# INIZIO
 
-Here is the VS Code theme that I use. I like dark themes so it's dark :) 
+A new theme I made for myself... just starting out on GitHub so this theme would mark the _beginning_ of it 
+
+
 
 I took inspiration from the FPS game [Valorant](https://playvalorant.com/) and the [Dark+ Material](https://marketplace.visualstudio.com/items?itemName=vangware.dark-plus-material) themes.
 

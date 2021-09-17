@@ -1,34 +1,34 @@
 {
-    "name": "inizio-theme",
-    "displayName": "Inizio Theme",
-    "description": "INIZIO: A theme based on TasnimulHasan007's VALORANT theme but withi ",
-    "version": "0.4.3",
-    "publisher": "TasnimulHasan",
-    "icon": "icon.jpg",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/nxltm/inizio-theme/"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "inizio-theme",
-        "inizio theme",
-        "inizio"
-    ],
-    "engines": {
-        "vscode": "^1.59.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "INIZIO: Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/inizio.json"
-            }
-        ]
-    }
+  "name": "inizio-theme",
+  "displayName": "Inizio Theme",
+  "description": "INIZIO: A theme based on TasnimulHasan007's VALORANT theme but withi ",
+  "version": "0.4.3",
+  "publisher": "TasnimulHasan",
+  "icon": "icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nxltm/inizio-theme/"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "inizio-theme",
+    "inizio theme",
+    "inizio"
+  ],
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "INIZIO: Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/inizio.json"
+      }
+    ]
+  }
 }

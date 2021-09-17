@@ -24,6 +24,8 @@ These are my first themes, so make sure to let me know if you see something off 
 
 ## What's Inside / Who's the Crew? 
 
+> Sorry if my English writing skills are bad...
+
 ### Akali
 
 ![Akali](https://cdn.vox-cdn.com/thumbor/hZrZWhpEpjdfRdWZGztXM7fY7lI=/0x0:1980x1169/1200x0/filters:focal(0x0:1980x1169):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19325206/Akali_Splash_12.jpg)

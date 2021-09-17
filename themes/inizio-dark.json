@@ -539,7 +539,7 @@
     },
     {
       "scope": ["punctuation.definition.expression", "meta.brace.round"],
-      "settings": { "foreground": "#DF2E2E" }
+      "settings": { "foreground": "#FF4848" }
     },
     {
       "scope": "punctuation.definition.global",
@@ -1032,7 +1032,7 @@
         "constant.numeric.qua",
         "constant.character.escape.quaternary"
       ],
-      "settings": { "foreground": "#86bbd8" }
+      "settings": { "foreground": "#86BBD8" }
     },
     {
       "scope": [
@@ -1300,11 +1300,11 @@
     },
     {
       "scope": "keyword.control.keepout",
-      "settings": { "foreground": "#AACC00" }
+      "settings": { "foreground": "#AACC33" }
     },
     {
       "scope": "keyword.control.search",
-      "settings": { "foreground": "#FF7D00" }
+      "settings": { "foreground": "#FF7D33" }
     },
     { "scope": "keyword.other", "settings": { "foreground": "#B267E6" } },
     {

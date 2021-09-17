@@ -1,24 +1,20 @@
 {
-    "name": "valorant-theme",
-    "displayName": "Valorant Theme",
-    "description": "This a theme based on the FPS game called valorant!",
+    "name": "inizio-theme",
+    "displayName": "Inizio Theme",
+    "description": "INIZIO: A theme based on TasnimulHasan007's VALORANT theme but withi ",
     "version": "0.4.3",
     "publisher": "TasnimulHasan",
     "icon": "icon.jpg",
     "repository": {
         "type": "git",
-        "url": "https://github.com/TasnimulHasan007/valorant-theme"
+        "url": "https://github.com/nxltm/inizio-theme/"
     },
     "keywords": [
         "theme",
         "dark theme",
-        "valorant-theme",
-        "valorant theme",
-        "valorant",
-        "tasnimul",
-        "tasnimul hasan",
-        "tasnimulhasan",
-        "tasnimul-hasan"
+        "inizio-theme",
+        "inizio theme",
+        "inizio"
     ],
     "engines": {
         "vscode": "^1.59.0"
@@ -29,14 +25,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Valorant Theme - High Contrast",
+                "label": "INIZIO: Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/valorant-high-contrast.json"
-            },
-            {
-                "label": "Valorant Theme - Low Contrast",
-                "uiTheme": "vs-dark",
-                "path": "./themes/valorant-mid-contrast.json"
+                "path": "./themes/inizio.json"
             }
         ]
     }

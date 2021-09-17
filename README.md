@@ -6,6 +6,8 @@
 
 <small>`image above by me`</small>
 
+[I'm working on it here!](https://themes.vscode.one/)
+
 </div>
 
 --- 
@@ -24,23 +26,33 @@ These are my first themes, so make sure to let me know if you see something off 
 
 ### Akali
 
-A badass mix of orange, grey, camo and white, inspired by the founder of the True Damage crew, the rapper _Akali_, from K/DA!
+![Akali](https://cdn.vox-cdn.com/thumbor/hZrZWhpEpjdfRdWZGztXM7fY7lI=/0x0:1980x1169/1200x0/filters:focal(0x0:1980x1169):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19325206/Akali_Splash_12.jpg)
+
+> A badass mix of orange, grey, camo and white, inspired by the founder of the True Damage crew, the rapper _Akali_, from K/DA!
 
 ### Ekko (+ Neon)
 
-It's rewind time. Code in the dark like you're the boy genius _Ekko_. Comes in two flavors: Neon and Regular, all in yellow, navy and cobalt blue.
+![Ekko](https://cdn.vox-cdn.com/thumbor/vg9GZPeXivyIETc8sYpTyjx963o=/0x0:1980x1169/1200x0/filters:focal(0x0:1980x1169):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19325205/Ekko_Splash_6.jpg)
+
+> It's rewind time. Code in the dark like you're the boy genius _Ekko_. Comes in two flavors: Neon and Regular, all in yellow, navy and cobalt blue.
 
 ### Senna (+ Prestige)
 
-Bring yourself back to the spotlight with a green/red theme inspired by the one and only lead singer _Senna_. 
+![Senna](https://dotesports-media.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2019/10/29143224/SennaTD.jpg)
+
+> Bring yourself back to the spotlight with a green/red theme inspired by the one and only lead singer _Senna_. 
 
 ### Qiyana (+ Prestige)
 
-This one's for the ladies. Impress your friends with _Qiyana_'s signature theme, of cyan, magenta and golden yellow. 
+![Qiyana](https://www.mobafire.com/images/champion/skins/landscape/qiyana-true-damage.jpg)
+
+> This one's for the ladies. Impress your friends with _Qiyana_'s signature theme, of cyan, magenta and golden yellow. 
 
 ### Yasuo (+ Prestige)
 
-Get laidback with _Yasuo_'s cool blue and turquoise look. Look forward to it if you're working in the basement or in the backend.
+![Yasuo](https://www.mobafire.com/images/champion/skins/landscape/yasuo-true-damage.jpg)
+
+> Get laidback with _Yasuo_'s cool blue and turquoise look. Engineer your software like how he engineers his beats.
 
 ### Recommended Settings 
 

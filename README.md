@@ -1,16 +1,51 @@
-# [TRU:DMG]
+# [TRUE:COLORS]
+
+<div align=center>
+
+![true damage](./icon.jpg)
+
+<small>`image above by me`</small>
+
+</div>
+
+--- 
 
 ```js
 const damage: boolean = true;
 ```
 
-A colorful skin line for Visual Studio Code, based on the True Damage skin line from League of Legends! Supports most languages, including, but not limited to: CSS, JS, TypeScript, HTML, PHP, Ruby, YAML, Markdown, Python, Ruby, Java, C#, Scala and more. 
+A colorful skinline for Visual Studio Code, based on the legendary **True Damage** skinline from **League of Legends**! Supports most languages, including, but not limited to: CSS, JS, TypeScript, HTML, PHP, Ruby, YAML, Markdown, Python, Ruby, Java, C#, Scala and more. 
 
 The colors are mostly based on the Electron/One Dark Pro/Material Themes, plus more colors sourced from [Coolors](coolors.co) and [Color Hunt](colorhunt.com). This was once my personal theme so there're a lot of colors in there.
 
-These are my first themes, so please let me know if you see anything out of place or don't work well!
+These are my first themes, so make sure to let me know if you see something off or out of place, or even don't work well, and I'll try to find time to fix it.
+
+## What's Inside / Who's the Crew? 
+
+### Akali
+
+A badass mix of orange, grey, camo and white, inspired by the founder of the True Damage crew, the rapper _Akali_, from K/DA!
+
+### Ekko (+ Neon)
+
+It's rewind time. Code in the dark like you're the boy genius _Ekko_. Comes in two flavors: Neon and Regular, all in yellow, navy and cobalt blue.
+
+### Senna (+ Prestige)
+
+Bring yourself back to the spotlight with a green/red theme inspired by the one and only lead singer _Senna_. 
+
+### Qiyana (+ Prestige)
+
+This one's for the ladies. Impress your friends with _Qiyana_'s signature theme, of cyan, magenta and golden yellow. 
+
+### Yasuo (+ Prestige)
+
+Get laidback with _Yasuo_'s cool blue and turquoise look. Look forward to it if you're working in the basement or in the backend.
 
 ### Recommended Settings 
+
+The theme is designed to work with the
+
 
 If you want to steal this look, [Cascadia Code](https://github.com/microsoft/cascadia-code) at **500 weight**, then paste this code snippet in your `settings.json` file:
 

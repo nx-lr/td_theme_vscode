@@ -10,6 +10,19 @@ The colors are mostly based on the Electron/One Dark Pro/Material Themes, plus m
 
 These are my first themes, so please let me know if you see anything out of place or don't work well!
 
+### Recommended Settings 
+
+If you want to steal this look, [Cascadia Code](https://github.com/microsoft/cascadia-code) at **500 weight**, then paste this code snippet in your `settings.json` file:
+
+```json
+{
+  "editor.fontFamily": "Cascadia Code, monospace",
+  "editor.fontLigatures": "'ss01', 'ss20'", // insert your own custom configuration here
+  "editor.fontSize": 13,
+  "editor.letterSpacing": -0.5
+}
+```
+
 ### Installation :arrowdown:
 
 - Install and launch Visual Studio Code
@@ -22,19 +35,6 @@ If you want to switch themes:
 
 - Navigate to Code > Preferences > Color Theme, then type `true colors`. You should see five themes.
 - Then select `True Colors: ${True Damage member}` from the dropdown
-
-### Recommended Settings 
-
-If you want to steal this look, [Cascadia Code](https://github.com/microsoft/cascadia-code) at **500 weight**, then paste this code snippet in your `settings.json` file:
-
-```json
-{
-  "editor.fontFamily": "Cascadia Code, monospace",
-  "editor.fontLigatures": "ss01", // insert your own custom configuration here
-  "editor.fontSize": 13,
-  "editor.letterSpacing": -0.5
-}
-```
 
 ## Palette 🎨
 

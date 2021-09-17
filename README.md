@@ -1,5 +1,3 @@
-<style>body{font-family:Cascadia Code}</style>
-
 # [INIZIO]
 
 A new theme I made for myself... just starting out on GitHub so this theme would mark the _beginning_ of it.
@@ -11,29 +9,3 @@ I'll be maintaining this when I have the time, so stick up as soon as I get the 
 This theme is best used with [Cascadia Code](https://github.com/microsoft/cascadia-code) at **500 weight**.
 
 ## Screenshots (coming soon)
-
-<!--
-### HTML
-
-![HTML screenshot](https://github.com/TasnimulHasan007/valorant-theme/raw/main/screenshots/html.png)
-
-### CSS
-
-![CSS screenshot](https://github.com/TasnimulHasan007/valorant-theme/raw/main/screenshots/css.png)
-
-### JavaScript
-
-![JavaScript screenshot](https://github.com/TasnimulHasan007/valorant-theme/raw/main/screenshots/js.png)
-
-### Terminal
-
-![Terminal screenshot](https://github.com/TasnimulHasan007/valorant-theme/raw/main/screenshots/terminal.jpeg)
-
-### Text Selection
-
-![Text Selection screenshot](https://github.com/TasnimulHasan007/valorant-theme/raw/main/screenshots/text-selection.jpeg)
-
-### Widgets
-
-![Widgets screenshot](https://github.com/TasnimulHasan007/valorant-theme/raw/main/screenshots/widgets.jpeg)
- -->

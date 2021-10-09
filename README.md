@@ -14,17 +14,15 @@
 const damage: boolean = true;
 ```
 
-**_True Colors_** is a colorful programming theme-line for VS Code, based on the official True Damage skins from League of Legends!
+**_True Colors_** is a colorful programming skinline for Visual Studio Code, based on League of Legends' **True Damage** skinline! Created by yours truly. These are my first themes, so make sure to let me know if you see something off or out of place, or even don't work well, and I'll try to fix it.
 
 The themes are designed with [**_Theme Studio_**](https://themes.vscode.one/), which I recommend you try out for yourself if you're sane enough to create your own theme then have it previewed in real time.
 
-The colors are adapted from [***Electron***](https://github.com/kcmr/electron-theme-vscode), augmented by other colors from popular themes, as well as [***Coolors***](coolors.co) and [***Color Hunt***](colorhunt.com).
+The colors are adapted from [**_Electron_**](https://github.com/kcmr/electron-theme-vscode), augmented by other colors from popular themes, as well as [**_Coolors_**](coolors.co) and [**_Color Hunt_**](colorhunt.com).
 
 Supports most languages, including, but not limited to: CSS, JS, TypeScript, HTML, PHP, Ruby, YAML, Markdown, Python, Ruby, Java, C#, Scala and more.
 
 The colors are mostly based on the Electron/One Dark Pro/Material Themes, plus more colors sourced from. This was once my personal theme so there're a lot of colors in there.
-
-These are my first themes, so make sure to let me know if you see something off or out of place, or even don't work well, and I'll try to find time to fix it.
 
 ### Recommended Settings
 
@@ -62,7 +60,7 @@ Coming soon:
 
 ## Screenshots
 
-There's two themes for each of the True Damage members, with low and high contrast versions. In addition, there's a sixth Prestige edition theme, with custom accent colors for the Prestige members (Qiyana, Senna and Yasuo).
+This pack comes with five themes, each for the True Damage members.
 
 ### Akali // Coming soon!
 
@@ -78,7 +76,7 @@ There's two themes for each of the True Damage members, with low and high contra
 
 ## Extension Pack 📦
 
-Once this theme is published on Visual Studio Code, it will also be available as an extension pack.
+This theme would be available very soon on the Visual Studio Marketplace. It would also be available as an extension pack, and would also contain the following extensions:
 
 - **Customize UI** & **Monkey Patch** - to inject custom CSS and JS
 - **Babel JavaScript** - syntax highlighting for Babel JavaScript. Also supports some experimental JavaScript features, and support for Flow, GraphQL and Styled Components.

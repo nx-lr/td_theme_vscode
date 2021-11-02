@@ -1,8 +1,8 @@
-# [TRUE:COLORS]
+# [TRU:CODE]
 
 <div align=center>
 
-![icon](https://github.com/nxltm/true-colors/blob/main/icon.jpg?raw=true)
+![icon](https://github.com/nxltm/trucode_themes/blob/main/icon.jpg?raw=true)
 
 <small>`image above by me / done using Figma and Canva`</small>
 
@@ -14,7 +14,7 @@
 const damage: boolean = true;
 ```
 
-**_True Colors_** is a colorful programming skinline for Visual Studio Code, based on League of Legends' **True Damage** skinline! Created by yours truly. These are my first themes, so make sure to let me know if you see something off or out of place, or even don't work well, and I'll try to fix it.
+**_TruCode_** are a line of programming themes for Visual Studio Code, based on the official True Damage (2019) skins from League of Legends!
 
 The themes are designed with [**_Theme Studio_**](https://themes.vscode.one/), which I recommend you try out for yourself if you're sane enough to create your own theme then have it previewed in real time.
 
@@ -24,11 +24,11 @@ Supports most languages, including, but not limited to: CSS, JS, TypeScript, HTM
 
 The colors are mostly based on the Electron/One Dark Pro/Material Themes, plus more colors sourced from. This was once my personal theme so there're a lot of colors in there.
 
+These are my first themes, so make sure to let me know if you see something off or out of place, or even don't work well, and I'll try to find time to fix it.
+
 ### Recommended Settings
 
-The theme is designed to work with the
-
-If you want to steal this look, [Cascadia Code](https://github.com/microsoft/cascadia-code) at **500 weight**, then paste this code snippet in your `settings.json` file:
+If you want to steal the look as per the screenshots, go and install [Cascadia Code](https://github.com/microsoft/cascadia-code/releases), download the **Variable Fonts**, then paste this code snippet in your `settings.json` file, excluding the outside braces:
 
 ```json
 {
@@ -36,23 +36,23 @@ If you want to steal this look, [Cascadia Code](https://github.com/microsoft/cas
   "editor.fontLigatures": "'ss01', 'ss20'", // insert your own custom configuration here
   "editor.fontSize": 13,
   "editor.letterSpacing": -0.5,
-  "customizeUI.font.monospace": "Cascadia Code",
+  "customizeUI.font.monospace": "Cascadia Code", // or Iosevka
   "customizeUI.font.regular": "Bahnschrift"
 }
 ```
 
-### Installation ⬇️
+### Installation
 
 - Install and launch Visual Studio Code
 - Click on the Extensions Icon
-- Search for `true colors`
+- Search for `TruCode`
 - Click `Install`, then `Set Color Theme`
 - Select what theme you want to use from the dropdown
 
 If you want to switch themes:
 
-- Navigate to Code > Preferences > Color Theme, then type `true colors`. You should see five themes.
-- Then select `True Colors: ${True Damage member}` from the dropdown
+- Navigate to Code > Preferences > Color Theme, then type `TruCode`. You should see five themes.
+- Then select `TruCode: {True Damage member}` from the dropdown
 
 ---
 
@@ -60,23 +60,31 @@ Coming soon:
 
 ## Screenshots
 
-This pack comes with five themes, each for the True Damage members.
+There's two themes for each of the True Damage members, with low and high contrast versions. In addition, there's a sixth Prestige edition theme, with custom accent colors for the Prestige members (Qiyana, Senna and Yasuo).
 
-### Akali // Coming soon!
+### Akali // Finished!
 
-![Akali]()
+![Akali](./images/akali.jpg)
 
-### Ekko // WIP
+### Ekko // Almost done!
 
-### Qiyana // WIP
+![Ekko](./images/ekko.jpg)
 
-### Senna // WIP
+### Qiyana // Not yet done.
 
-### Yasuo // WIP
+![Qiyana](./images/qiyana.jpg)
 
-## Extension Pack 📦
+### Senna // Not yet done.
 
-This theme would be available very soon on the Visual Studio Marketplace. It would also be available as an extension pack, and would also contain the following extensions:
+![Senna](./images/senna.jpg)
+
+### Yasuo // Not yet done.
+
+![Yasuo](./images/yasuo.jpg)
+
+## Extension Pack
+
+Once this theme is published on Visual Studio Code, it will also be available as an extension pack.
 
 - **Customize UI** & **Monkey Patch** - to inject custom CSS and JS
 - **Babel JavaScript** - syntax highlighting for Babel JavaScript. Also supports some experimental JavaScript features, and support for Flow, GraphQL and Styled Components.

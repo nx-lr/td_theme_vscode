@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![icon](https://github.com/nxltm/trucode_themes/blob/main/logo.png?raw=true)
+![icon](./logo.png)
 
 <small>`image above by me / done using Figma and Canva`</small>
 
